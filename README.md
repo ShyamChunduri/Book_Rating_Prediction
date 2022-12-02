@@ -11,4 +11,11 @@
 
 4) Once we ran app.py it should start the server and we need to open  http://127.0.0.1:5000 in the browser and give AGE and Year the book was published.
 
-5) Once we give the above values it should give the rating that the user of that age would give to that book
+5) Once we give the above values it should give the rating that the user of that age would give to that book.
+
+
+## How to Run the python script for model implementation
+
+1) open book_rating_prediction.ipynb in jupyter notebook.
+
+2) run each cell and check the accuracies of the model for different k values and finalize a K value.
